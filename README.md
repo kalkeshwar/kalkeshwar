@@ -1,4 +1,3 @@
-[![An image of @kalkeshwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalkeshwar)](https://holopin.io/@kalkeshwar)
 # Hi, I'm Kalkeshwar! 👋
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" alt="coder"/>
   
@@ -7,6 +6,9 @@
 - 💻 Web development enthusiast with a passion for creating beautiful, user-friendly websites.
 - 🌐 Constantly learning and experimenting with the latest web technologies and trends.
 - 📚 Self-driven and always seeking opportunities to expand my knowledge and skillsets.
+
+## Open Source Contribution
+[![An image of @kalkeshwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalkeshwar)](https://holopin.io/@kalkeshwar)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
