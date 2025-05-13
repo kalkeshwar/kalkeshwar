@@ -2,7 +2,7 @@
 <img src="./assets/animateprogrammer.gif" align="center" alt="coder"/>
   
 ## About Me
-- 🎓 I'm a Student and Web developer.
+- 🎓 Building real-world solutions while learning—one unique commit at a time.
 - 💻 Web development enthusiast with a passion for creating beautiful, user-friendly websites.
 - 🌐 Constantly learning and experimenting with the latest web technologies and trends.
 - 📚 Self-driven and always seeking opportunities to expand my knowledge and skillsets.
